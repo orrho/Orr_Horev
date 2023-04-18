@@ -1,7 +1,7 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    margin: 10px;
-    padding: 10px;
+    margin: 5px;
+    padding: 5px;
 }
 
 h1 {
@@ -15,6 +15,11 @@ h1 {
 .classA{
     background-color: rgb(155, 176, 71);
     color: rgb(68, 0, 255);
-    font-family: Arial, Helvetica, sans-serif;
     display: block;
+}
+
+div a {
+    display: block;
+    text-decoration: none;
+
 }
